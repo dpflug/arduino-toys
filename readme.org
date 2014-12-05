@@ -17,6 +17,5 @@ For the record, based on this test, keeping a variable updated in memory is fast
 Now we're getting fancy. Accept a list of timings from the computer via Serial, then blink that pattern.
 
 *** Possible extensions:
-
-**** Add support for choosing a pin and an analog level
-Probably easiest to just use Firmata at that point, though.
+- Add support for choosing a pin and an analog level
+  Probably easiest to just use Firmata at that point, though.
